@@ -34,46 +34,47 @@ Licence Informatique
 
 ## Projets Académiques
 
-### 🔹 Analyse des Algorithmes de Tri  
+### Analyse des Algorithmes de Tri  
 Chaîne de traitement permettant d’évaluer et de comparer différents algorithmes de tri.  
 (En cours)
 
-### 🔹 Diffie-Hellman sur Courbes Elliptiques  
+### Diffie-Hellman sur Courbes Elliptiques  
 Démonstrateur pédagogique de l’échange de clés sécurisé basé sur la cryptographie ECC.  
-🔗 
+Lien : https://github.com/Garagorn/Demonstrator-DH
 
-### 🔹 Arbres Couvrants Minimaux — Prim & Kruskal  
+### Arbres Couvrants Minimaux — Prim & Kruskal  
 Implémentation et comparaison de deux algorithmes fondamentaux de graphes.  
-🔗 
+Lien : https://github.com/Garagorn/Demonstrator-MST
 
-### 🔹 Jeu de Blackjack (IA)  
+### Jeu de Blackjack (contre IA)  
 Jeu de cartes contre différents types de robots.  
-🔗 
+Lien : https://github.com/Garagorn/Projet_Blackjack
 
-### 🔹 Todo List — React  
+### Todo List — React  
 Application web pour la gestion de tâches.  
-🔗 
+Lien : https://github.com/Garagorn/TodoList
 
-### 🔹 Site Web PHP + SQL (Animaux & API)  
+### Site Web PHP + SQL (Animaux & API)  
 Application connectée à une base de données permettant l’ajout et la visualisation via API.  
-🔗 
-### 🔹 Analyseur de “Livre Dont Vous Êtes le Héros”  
+Lien : https://github.com/Garagorn/Web-Animals
+
+### Analyseur de “Livre Dont Vous Êtes le Héros”  
 Transformation d’un livre en graphe de décisions et visualisation des parcours possibles.  
-🔗 
+Lien : https://github.com/Garagorn/FM3-LDVELH
 
-### 🔹 Bataille Navale (IA aléatoire)  
+### Bataille Navale (IA aléatoire)  
 Jeu contre un adversaire automatique.  
-🔗 
+Lien : https://github.com/Garagorn/Bataille_Navale
 
-### 🔹 CRUD Musique — PHP / SQL  
+### CRUD Musique — PHP / SQL  
 Application web complète de gestion de titres musicaux.  
-🔗 
+Lien : https://github.com/Garagorn/Web-Music
 
 ---
 
-## 📂 Projets Personnels
+## Projets Personnels
 
-### 🔸 Apprentissage du langage Ada  
+### Apprentissage du langage Ada  
 Découverte de la programmation système et du typage fort.  
 
 
@@ -103,6 +104,6 @@ Des projets orientés réseau seront ajoutés prochainement.
 
 ---
 
-## 📬 Contact
+## Contact
 
 GitHub : https://github.com/Garagorn/
