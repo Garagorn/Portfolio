@@ -76,7 +76,7 @@ Lien : https://github.com/Garagorn/Web-Music
 
 ### Apprentissage du langage Ada  
 Découverte de la programmation système et du typage fort.  
-
+https://github.com/Garagorn/Apprentissage_ADA
 
 ---
 
@@ -88,7 +88,8 @@ Je souhaite développer des compétences en :
 - Sécurité des services  
 - Cryptographie appliquée  
 
-Des projets orientés sécurité seront ajoutés prochainement.
+### Validateur de mot de passe
+Validateur de mot de passe local [Validateur de mot de passe](https://github.com/Garagorn/Validateur-MDP)
 
 ---
 
@@ -100,7 +101,8 @@ Je m’intéresse également aux réseaux informatiques et souhaite approfondir 
 - Analyse du trafic et surveillance des systèmes  
 - Sécurité réseau et protection des services  
 
-Des projets orientés réseau seront ajoutés prochainement.
+### Projet Client-Serveur
+Authentification à un serveur (Projet utilisant un validateur de mot de passe)
 
 ---
 
