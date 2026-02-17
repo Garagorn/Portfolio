@@ -38,6 +38,10 @@ Licence Informatique
 Chaîne de traitement permettant d’évaluer et de comparer différents algorithmes de tri.  
 (En cours)
 
+### Calculatrice Scientifique en antl4r 
+Compiler un langage de calculatrice scientifique en MVàP
+(En cours)
+
 ### Diffie-Hellman sur Courbes Elliptiques  
 Démonstrateur pédagogique de l’échange de clés sécurisé basé sur la cryptographie ECC.  
 Lien : https://github.com/Garagorn/Demonstrator-DH
