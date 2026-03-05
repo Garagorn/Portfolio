@@ -1,7 +1,6 @@
 # Basile TELLIER — Étudiant en Informatique
 
-Étudiant en Licence 3 Informatique, orienté **développement logiciel, web et cybersécurité (systèmes & réseaux)**,  
-je m’intéresse particulièrement aux algorithmes, à la conception d’applications et à la sécurité des systèmes.
+Étudiant en Licence 3 Informatique,je m’intéresse particulièrement à la conception d’applications, au domaine du réseau et à la sécurité des systèmes.
 
 ---
 
