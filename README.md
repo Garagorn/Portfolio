@@ -1,18 +1,18 @@
 # Basile TELLIER — Étudiant en Informatique
 
-Étudiant en Licence 3 Informatique,je m’intéresse particulièrement à la conception d’applications, au domaine du réseau et à la sécurité des systèmes.
+Étudiant en Licence 3 Informatique,je m’intéresse particulièrement au domaine du réseau, de la cybersécurité et de la conception d’applications et de projets.
 
 ---
 
 ## Compétences
 
-- **Langages :** Java, C, PHP, SQL, JavaScript, Ada (en apprentissage)  
+- **Langages :** Java, C, PHP, SQL, Python, HTML/CSS, Haskell, JavaScript, Ada (en apprentissage)  
 - **Développement logiciel :** Programmation orientée objet, structures de données, algorithmique  
-- **Web :** React, PHP, API, applications CRUD  
+- **Web :** React, PHP, API, applications CRUD/MVCR
 - **Algorithmique & Graphes :** Tris, BFS/DFS, Prim, Kruskal, FM³  
-- **Systèmes & Réseaux :** Bash, programmation système, notions réseau  
+- **Systèmes & Réseaux :** Bash, programmation système, notions réseaux  
 - **Cybersécurité :** Cryptographie (Diffie-Hellman ECC), sécurité des systèmes (bases)  
-- **Outils :** Git, GitHub, LaTeX, **outils d’IA (assistance au développement, analyse de code)**
+- **Outils :** Git, GitHub, LaTeX, Trello, Overleaf
 
 ---
 
@@ -24,7 +24,7 @@ Licence Informatique
 - Programmation Système (C, Shell, Git)  
 - Algorithmique & Structures de Données  
 - Bases de Données (SQL,MongoDB)  
-- Développement Web & Client (PHP, React, JS)  
+- Développement Web & Client (PHP, React, JS, HTML, CSS)  
 - Conception Logicielle (Design Patterns, méthodes de conception)  
 - Cryptologie, Réseaux, Parallélisme  
 - Théorie des Langages, Compilation, Théorie des Graphes  
@@ -65,10 +65,6 @@ Lien : https://github.com/Garagorn/Web-Animals
 Transformation d’un livre en graphe de décisions et visualisation des parcours possibles.  
 Lien : https://github.com/Garagorn/FM3-LDVELH
 
-### Bataille Navale (IA aléatoire)  
-Jeu contre un adversaire automatique.  
-Lien : https://github.com/Garagorn/Bataille_Navale
-
 ### CRUD Musique — PHP / SQL  
 Application web complète de gestion de titres musicaux.  
 Lien : https://github.com/Garagorn/Web-Music
@@ -83,7 +79,7 @@ https://github.com/Garagorn/Apprentissage_ADA
 
 ---
 
-## Orientation Cybersécurité
+## Intérêsser par la Cybersécurité
 
 Je souhaite développer des compétences en :
 
@@ -92,11 +88,11 @@ Je souhaite développer des compétences en :
 - Cryptographie appliquée  
 
 ### Validateur de mot de passe
-Validateur de mot de passe local [Validateur de mot de passe](https://github.com/Garagorn/Validateur-MDP)
+Validateur de mot de passe local [Validateur de mot de passe local](https://github.com/Garagorn/Validateur-MDP)
 
 ---
 
-## Orientation Réseaux
+## Intérêsser par le domaine du Réseaux
 
 Je m’intéresse également aux réseaux informatiques et souhaite approfondir :
 
@@ -104,8 +100,8 @@ Je m’intéresse également aux réseaux informatiques et souhaite approfondir 
 - Analyse du trafic et surveillance des systèmes  
 - Sécurité réseau et protection des services  
 
-### Projet Client-Serveur
-Authentification à un serveur (Projet utilisant un validateur de mot de passe)
+### Validateur de mot de passe Client-Serveur
+Validateur de mot de passe client serveur [Validateur de mot de passe Connecté](https://github.com/Garagorn/VerificateurMotDePasse_Client_Serveur)
 
 ---
 
