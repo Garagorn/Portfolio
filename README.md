@@ -11,7 +11,7 @@
 - **Web :** React, PHP, API, applications CRUD/MVCR
 - **Algorithmique & Graphes :** Tris, BFS/DFS, Prim, Kruskal, FM³  
 - **Systèmes & Réseaux :** Bash, programmation système, notions réseaux  
-- **Cybersécurité :** Cryptographie (Diffie-Hellman ECC), sécurité des systèmes (bases)  
+- **Cybersécurité :** Cryptographie (Diffie-Hellman ECC), sécurité des systèmes (bases), OSINT, collecte de preuve
 - **Outils :** Git, GitHub, LaTeX, Trello, Overleaf
 
 ---
