@@ -128,7 +128,7 @@ https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation-bellat
 À l’issue de mon année universitaire, prévue début avril 2026, je souhaite approfondir mes compétences à travers plusieurs projets personnels orientés cybersécurité et réseaux. 
 
 - Virtualisation et automatisation des infrastructures
-Je prévois de me former aux outils tels que Terraform, Ansible et Docker afin de mieux comprendre les enjeux liés à la virtualisation, à l’orchestration et au déploiement automatisé d’infrastructures.
+Je prévois de me former aux outils tels que **Terraform**, **Ansible** et **Docker** afin de mieux comprendre les enjeux liés à la virtualisation, à l’orchestration et au déploiement automatisé d’infrastructures.
 - Mise en place d’une architecture client-serveur virtualisée
 Dans la continuité d'un de mes projets personnel, je souhaite adapter mon projet client-serveur existant à un environnement virtualisé reposant sur plusieurs machines virtuelles, afin de simuler une infrastructure réseau plus réaliste et en analyser les aspects liés à la sécurité.
 - Participation à des CTF et challenges de cybersécurité avec l'association Caen Hack You
