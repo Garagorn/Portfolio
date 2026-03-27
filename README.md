@@ -105,6 +105,38 @@ Validateur de mot de passe client serveur [Validateur de mot de passe Connecté]
 
 ---
 
+# Pratique technique et challenges (CTF)
+
+---
+
+## CTF Orion 2026 (Opération Bellatrix)
+Dans le cadre de ce Capture The Flag orienté OSINT et investigation organisé par le COMCYBER, j’ai participé à une série d’épreuves sur plusieurs jours visant à analyser une campagne de désinformation.
+
+Jour 1 : identification du premier diffuseur de la désinformation à partir de différentes sources ouvertes
+Jour 2 : collecte et analyse de preuves techniques afin de remonter à l’origine de la campagne
+Jour 3 : localisation d’un individu (“Lynx”) en exploitant des techniques d’OSINT
+
+Ce CTF m’a permis de découvrir et de mettre en pratique des méthodes d’investigation numérique, notamment la recherche d’informations en sources ouvertes, le croisement de données et l’analyse d’indices techniques.
+
+Bien que certains domaines abordés aient constitué une première pour moi, cette expérience a été particulièrement enrichissante et intéressante. Elle m’a permis de développer une approche plus rigoureuse dans l’analyse, ainsi qu’une meilleure compréhension des enjeux liés à la désinformation et à la cybersécurité. 
+
+https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation-bellatrix-met-au-defi-jeunes
+
+---
+
+## Projets en préparations
+À l’issue de mon année universitaire, prévue début avril 2026, je souhaite approfondir mes compétences à travers plusieurs projets personnels orientés cybersécurité et réseaux. 
+
+- Virtualisation et automatisation des infrastructures
+Je prévois de me former aux outils tels que Terraform, Ansible et Docker afin de mieux comprendre les enjeux liés à la virtualisation, à l’orchestration et au déploiement automatisé d’infrastructures.
+- Mise en place d’une architecture client-serveur virtualisée
+Dans la continuité d'un de mes projets personnel, je souhaite adapter mon projet client-serveur existant à un environnement virtualisé reposant sur plusieurs machines virtuelles, afin de simuler une infrastructure réseau plus réaliste et en analyser les aspects liés à la sécurité.
+- Participation à des CTF et challenges de cybersécurité avec l'association Caen Hack You
+Je compte poursuivre ma participation à des compétitions de type Capture The Flag afin de renforcer mes compétences pratiques en cybersécurité, notamment en analyse, exploitation de vulnérabilités et investigation.
+
+---
+
+
 ## Contact
 
 GitHub : https://github.com/Garagorn/
