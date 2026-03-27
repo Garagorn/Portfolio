@@ -35,11 +35,11 @@ Licence Informatique
 
 ### Analyse des Algorithmes de Tri  
 Chaîne de traitement permettant d’évaluer et de comparer différents algorithmes de tri.  
-(En cours)
+Lien : https://github.com/Garagorn/AnalyseAlgoSorting
 
 ### Calculatrice Scientifique en antl4r 
-Compiler un langage de calculatrice scientifique en MVàP
-(En cours)
+Réaliser un langage de calculatrice scientifique 
+Lien : (30/03/26)
 
 ### Diffie-Hellman sur Courbes Elliptiques  
 Démonstrateur pédagogique de l’échange de clés sécurisé basé sur la cryptographie ECC.  
