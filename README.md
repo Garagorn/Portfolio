@@ -38,8 +38,8 @@ Chaîne de traitement permettant d’évaluer et de comparer différents algorit
 Lien : https://github.com/Garagorn/AnalyseAlgoSorting
 
 ### Calculatrice Scientifique en antl4r 
-Réaliser un langage de calculatrice scientifique 
-Lien : (30/03/26)
+Réaliser une calculatrice scientifique compilable par une machine à pile virtuelle.
+Lien : [(30/03/26)](https://github.com/Garagorn/LangageCompilation)
 
 ### Diffie-Hellman sur Courbes Elliptiques  
 Démonstrateur pédagogique de l’échange de clés sécurisé basé sur la cryptographie ECC.  
