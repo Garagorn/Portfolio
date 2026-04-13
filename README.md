@@ -2,6 +2,7 @@
 
 
 Étudiant en Licence 3 Informatique à l'Université de Caen, je suis à la recherche d'un stage / d'une alternance à partir de Septembre 2026 pour ma poursuite d'études en Master.
+
 Je m'intéresse particulièrement aux réseaux, à la cybersécurité et au développement d'applications.  
 
 
@@ -101,9 +102,9 @@ Lien : https://github.com/Garagorn/VerificateurMotDePasse_Client_Serveur
 ## CTF Orion 2026 (Opération Bellatrix)
 Dans le cadre de ce Capture The Flag orienté OSINT et investigation organisé par le COMCYBER, j’ai participé à une série d’épreuves sur plusieurs jours visant à analyser une campagne de désinformation.
 
-Jour 1 : identification du premier diffuseur de la désinformation à partir de différentes sources ouvertes
-Jour 2 : collecte et analyse de preuves techniques afin de remonter à l’origine de la campagne
-Jour 3 : localisation d’un individu (“Lynx”) en exploitant des techniques d’OSINT
+- Jour 1 : identification du premier diffuseur de la désinformation à partir de différentes sources ouvertes
+- Jour 2 : collecte et analyse de preuves techniques afin de remonter à l’origine de la campagne
+- Jour 3 : localisation d’un individu (“Lynx”) en exploitant des techniques d’OSINT
 
 Cette expérience m'a permis de développer une approche rigoureuse en investigation numérique : recherche en sources ouvertes, croisement de données et analyse d'indices techniques.  
 
