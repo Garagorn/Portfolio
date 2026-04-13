@@ -1,6 +1,11 @@
 # Basile TELLIER — Étudiant en Informatique
 
-Étudiant en Licence 3 Informatique,je m’intéresse particulièrement au domaine du réseau, de la cybersécurité et de la conception d’applications et de projets.
+
+Étudiant en Licence 3 Informatique à l'Université de Caen, je suis à la recherche d'un stage / d'une alternance à partir de Septembre 2026 pour ma poursuite d'études en Master.
+Je m'intéresse particulièrement aux réseaux, à la cybersécurité et au développement d'applications.  
+
+
+**GitHub :** https://github.com/Garagorn/
 
 ---
 
@@ -18,7 +23,9 @@
 
 ## Formation
 
-Licence Informatique
+**Licence Informatique** - Université de Caen
+
+Principaux enseignements suivis :
 
 - Programmation Orientée Objet (Java)  
 - Programmation Système (C, Shell, Git)  
@@ -34,74 +41,56 @@ Licence Informatique
 ## Projets Académiques
 
 ### Analyse des Algorithmes de Tri  
-Chaîne de traitement permettant d’évaluer et de comparer différents algorithmes de tri.  
+Chaîne de traitement permettant d'évaluer et de comparer différents algorithmes de tri sur des jeux de données variés. Implémentée en Java, Bash et Python, elle produit des mesures de performance exploitables pour comparer les approches.   
 Lien : https://github.com/Garagorn/AnalyseAlgoSorting
 
-### Calculatrice Scientifique en antl4r 
-Réaliser une calculatrice scientifique compilable par une machine à pile virtuelle.
-Lien : [(30/03/26)](https://github.com/Garagorn/LangageCompilation)
+### Calculatrice Scientifique — ANTLR4 
+Calculatrice scientifique compilable par une machine à pile virtuelle, réalisée avec ANTLR4. Le projet couvre la conception de la grammaire, la génération du lexer/parser et l'émission d'un bytecode interprétable. 
+Lien : https://github.com/Garagorn/LangageCompilation
 
-### Diffie-Hellman sur Courbes Elliptiques  
-Démonstrateur pédagogique de l’échange de clés sécurisé basé sur la cryptographie ECC.  
+### Diffie-Hellman sur Courbes Elliptiques
+Démonstrateur pédagogique de l'échange de clés sécurisé basé sur la cryptographie ECC. Le projet illustre l'arithmétique modulaire sur courbes elliptiques et visualise chaque étape du protocole.   
 Lien : https://github.com/Garagorn/Demonstrator-DH
 
-### Arbres Couvrants Minimaux — Prim & Kruskal  
-Implémentation et comparaison de deux algorithmes fondamentaux de graphes.  
+### Arbres Couvrants Minimaux — Prim & Kruskal
+Démonstrateur pédagogique autour de limplémentation et comparaison des algorithmes de Prim et Kruskal sur des graphes pondérés. Le projet propose une visualisation des étapes de construction et une analyse comparative des performances.  
 Lien : https://github.com/Garagorn/Demonstrator-MST
 
-### Jeu de Blackjack (contre IA)  
-Jeu de cartes contre différents types de robots.  
+### Jeu de Blackjack (contre IA)
+Jeu de cartes jouable contre différents types de robots aux comportements distincts. L'accent a été mis sur la modélisation des stratégies adverses et la gestion de l'état de jeu.  
 Lien : https://github.com/Garagorn/Projet_Blackjack
 
-### Todo List — React  
-Application web pour la gestion de tâches.  
+### Todo List — React
+Application web de gestion de tâches développée avec React. Elle permet l'ajout, la suppression et le filtrage des tâches, en mettant en pratique la gestion de l'état et les composants fonctionnels.   
 Lien : https://github.com/Garagorn/TodoList
 
-### Site Web PHP + SQL (Animaux & API)  
-Application connectée à une base de données permettant l’ajout et la visualisation via API.  
+### Site Web PHP + SQL (Animaux & API)
+Application web connectée à une base de données permettant l'ajout et la consultation de fiches animales via une API REST. Le projet couvre la conception du schéma relationnel, le routage et les échanges JSON.   
 Lien : https://github.com/Garagorn/Web-Animals
 
-### Analyseur de “Livre Dont Vous Êtes le Héros”  
-Transformation d’un livre en graphe de décisions et visualisation des parcours possibles.  
+### Analyseur de "Livre Dont Vous Êtes le Héros"
+Transformation d'un livre interactif en graphe de décisions, avec visualisation des parcours possibles à l'aide de l'algorithme FM3. Le projet explore le traitement de texte structuré et la représentation graphique.  
 Lien : https://github.com/Garagorn/FM3-LDVELH
 
-### CRUD Musique — PHP / SQL  
-Application web complète de gestion de titres musicaux.  
+### CRUD Musique — PHP / SQL
+Application web complète de gestion de titres musicaux avec authentification, opérations CRUD et interface de recherche, suivant une architecture MVC.    
 Lien : https://github.com/Garagorn/Web-Music
 
 ---
 
 ## Projets Personnels
 
-### Apprentissage du langage Ada  
-Découverte de la programmation système et du typage fort.  
+### Apprentissage du langage Ada
+Découverte de la programmation système et du typage fort à travers des exercices progressifs.   
 https://github.com/Garagorn/Apprentissage_ADA
 
----
-
-## Intérêsser par la Cybersécurité
-
-Je souhaite développer des compétences en :
-
-- Administration systèmes & réseaux  
-- Sécurité des services  
-- Cryptographie appliquée  
-
-### Validateur de mot de passe
-Validateur de mot de passe local [Validateur de mot de passe local](https://github.com/Garagorn/Validateur-MDP)
-
----
-
-## Intérêsser par le domaine du Réseaux
-
-Je m’intéresse également aux réseaux informatiques et souhaite approfondir :
-
-- Configuration et administration de réseaux  
-- Analyse du trafic et surveillance des systèmes  
-- Sécurité réseau et protection des services  
-
-### Validateur de mot de passe Client-Serveur
-Validateur de mot de passe client serveur [Validateur de mot de passe Connecté](https://github.com/Garagorn/VerificateurMotDePasse_Client_Serveur)
+### Validateur de mot de passe (local)
+Outil d'analyse de la robustesse des mots de passe implémenté localement, intégrant les règles de complexité courantes.  
+Lien : https://github.com/Garagorn/Validateur-MDP
+ 
+### Validateur de mot de passe (client-serveur TCP - Logs - TLS)
+Extension du projet précédent vers une architecture client-serveur, permettant de simuler une vérification distante et d'aborder les enjeux de sécurité liés aux échanges réseau.  
+Lien : https://github.com/Garagorn/VerificateurMotDePasse_Client_Serveur
 
 ---
 
@@ -116,23 +105,19 @@ Jour 1 : identification du premier diffuseur de la désinformation à partir de 
 Jour 2 : collecte et analyse de preuves techniques afin de remonter à l’origine de la campagne
 Jour 3 : localisation d’un individu (“Lynx”) en exploitant des techniques d’OSINT
 
-Ce CTF m’a permis de découvrir et de mettre en pratique des méthodes d’investigation numérique, notamment la recherche d’informations en sources ouvertes, le croisement de données et l’analyse d’indices techniques.
+Cette expérience m'a permis de développer une approche rigoureuse en investigation numérique : recherche en sources ouvertes, croisement de données et analyse d'indices techniques.  
 
-Bien que certains domaines abordés aient constitué une première pour moi, cette expérience a été particulièrement enrichissante et intéressante. Elle m’a permis de développer une approche plus rigoureuse dans l’analyse, ainsi qu’une meilleure compréhension des enjeux liés à la désinformation et à la cybersécurité. 
-
-https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation-bellatrix-met-au-defi-jeunes
+Lien : https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation-bellatrix-met-au-defi-jeunes
 
 ---
 
-## Projets en préparations
-À l’issue de mon année universitaire, prévue début avril 2026, je souhaite approfondir mes compétences à travers plusieurs projets personnels orientés cybersécurité et réseaux. 
-
-- Virtualisation et automatisation des infrastructures
-Je prévois de me former aux outils tels que **Terraform**, **Ansible** et **Docker** afin de mieux comprendre les enjeux liés à la virtualisation, à l’orchestration et au déploiement automatisé d’infrastructures.
-- Mise en place d’une architecture client-serveur virtualisée
-Dans la continuité d'un de mes projets personnel, je souhaite adapter mon projet client-serveur existant à un environnement virtualisé reposant sur plusieurs machines virtuelles, afin de simuler une infrastructure réseau plus réaliste et en analyser les aspects liés à la sécurité.
-- Participation à des CTF et challenges de cybersécurité avec l'association Caen Hack You
-Je compte poursuivre ma participation à des compétitions de type Capture The Flag afin de renforcer mes compétences pratiques en cybersécurité, notamment en analyse, exploitation de vulnérabilités et investigation.
+## Objectifs 2026
+ 
+A l'issue de mon année universitaire, je souhaite approfondir mes compétences à travers plusieurs projets personnels :
+ 
+- **Virtualisation et automatisation des infrastructures :** formation aux outils Terraform, Ansible et Docker pour mieux comprendre les enjeux liés au déploiement et à l'orchestration d'infrastructures.
+- **Architecture client-serveur virtualisée :** adaptation de mon projet client-serveur existant à un environnement multi-machines virtuelles afin de simuler une infrastructure réseau réaliste et d'en analyser la sécurité.
+- **CTF et challenges de cybersécurité :** participation continue à des compétitions via l'association Caen Hack You, avec un focus sur l'analyse, l'exploitation de vulnérabilités et l'investigation.
 
 ---
 
