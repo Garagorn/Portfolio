@@ -39,6 +39,19 @@ Principaux enseignements suivis :
 
 ---
 
+
+## Objectifs 2026
+ 
+A l'issue de mon année universitaire, je souhaite approfondir mes compétences à travers plusieurs projets personnels :
+ 
+- **Virtualisation et Automatisation des infrastructures :** formation aux outils Terraform, Ansible et Docker pour mieux comprendre les enjeux liés au déploiement et à l'orchestration d'infrastructures.
+1. *Docker* (Avril/Mai/Juin)
+2. *Terraform* / *Ansible* (Juin/Juillet/Août)
+- **Cybersécurité :** se former sur les basiques de la cybersécurité avec **Cybersecurity101** de **TryHackMe** pour avoir plus de connaissances et continuer **Rootme**
+- **CTF et challenges de cybersécurité :** participation continue à des compétitions via l'association Caen Hack You, avec un focus sur l'analyse, l'exploitation de vulnérabilités et l'investigation.
+
+---
+
 ## Projets Académiques
 
 ### Analyse des Algorithmes de Tri  
@@ -111,17 +124,6 @@ Cette expérience m'a permis de développer une approche rigoureuse en investiga
 Lien : https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation-bellatrix-met-au-defi-jeunes
 
 ---
-
-## Objectifs 2026
- 
-A l'issue de mon année universitaire, je souhaite approfondir mes compétences à travers plusieurs projets personnels :
- 
-- **Virtualisation et automatisation des infrastructures :** formation aux outils Terraform, Ansible et Docker pour mieux comprendre les enjeux liés au déploiement et à l'orchestration d'infrastructures.
-- **Architecture client-serveur virtualisée :** adaptation de mon projet client-serveur existant à un environnement multi-machines virtuelles afin de simuler une infrastructure réseau réaliste et d'en analyser la sécurité.
-- **CTF et challenges de cybersécurité :** participation continue à des compétitions via l'association Caen Hack You, avec un focus sur l'analyse, l'exploitation de vulnérabilités et l'investigation.
-
----
-
 
 ## Contact
 
