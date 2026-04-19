@@ -15,7 +15,7 @@ Je m'intéresse particulièrement aux réseaux, à la cybersécurité et au dév
 - **Langages :** Java, C, PHP, SQL, Python, HTML/CSS, Haskell, JavaScript, Ada (en apprentissage)  
 - **Développement logiciel :** Programmation orientée objet, structures de données, algorithmique  
 - **Web :** React, PHP, API, applications CRUD/MVCR
-- **Algorithmique & Graphes :** Tris, BFS/DFS, Prim, Kruskal, FM³  
+- **Algorithmique & Graphes :** Tris, BFS/DFS, Prim, Kruskal, FM³, Floyd-Warshall, Bellman-Ford, Dijkstra
 - **Systèmes & Réseaux :** Bash, programmation système, notions réseaux  
 - **Cybersécurité :** Cryptographie (Diffie-Hellman ECC), sécurité des systèmes (bases), OSINT, collecte de preuve
 - **Outils :** Git, GitHub, LaTeX, Trello, Overleaf
@@ -28,14 +28,20 @@ Je m'intéresse particulièrement aux réseaux, à la cybersécurité et au dév
 
 Principaux enseignements suivis :
 
-- Programmation Orientée Objet (Java)  
+- Acculturation à la sécurité informatique
+- Conduite de projet
+- Programmation Orientée Objet (Java, Python)  
 - Programmation Système (C, Shell, Git)  
-- Algorithmique & Structures de Données  
+- Algorithmique & Algorithmique probabiliste & Structures de Données  
 - Bases de Données (SQL,MongoDB)  
 - Développement Web & Client (PHP, React, JS, HTML, CSS)  
 - Conception Logicielle (Design Patterns, méthodes de conception)  
-- Cryptologie, Réseaux, Parallélisme  
-- Théorie des Langages, Compilation, Théorie des Graphes  
+- Cryptologie, Parallélisme
+- Réseaux ( 
+- LAN [DHCP, DNS, Protocoles, @IP, UDP, TCP, masque réseau, ARP, ICMP, NAT, Filter pour Firewall, VLAN, routage inter vlan], 
+- WAN[Routage statique, Routage dynamique OSPF comme IGP et BGP comme EGP. Route par défaut, Logs avec Rsyslog, SNMP v3, VPN de niveau 2 et 3 e MPLS et Wireguard]
+-)
+- Théorie des Langages et Compilation, Théorie des Graphes  
 
 ---
 
