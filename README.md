@@ -8,8 +8,6 @@ Certifié ANSSI avec le module CYRCE, j'ai participé au CTF Orion 2026 organis�
 et défensive via TryHackMe et Root-Me, et j'ai conçu un système client-serveur
 intégrant TLS, hachage et multithreading en Python.
 
-Candidature en cours pour intégrer la réserve (JDC).
-
 **GitHub :** https://github.com/Garagorn/
 
 ---
@@ -68,12 +66,13 @@ Lien : https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation
 
 ### Root-Me
 Pratique régulière de challenges web et techniques pour progresser sur
-l'exploitation de vulnérabilités et la sécurité applicative.
-Profil : https://www.root-me.org/
+l'exploitation de vulnérabilités et la sécurité applicative. <br>
+
 
 ### TryHackMe — Cybersecurity101
 Formation structurée en cours couvrant Linux, réseaux, Active Directory,
-cryptographie et outils de sécurité offensive/défensive.
+cryptographie et outils de sécurité offensive/défensive. <br>
+Profil : https://tryhackme.com/p/Eragonn
 
 ---
 
@@ -100,40 +99,40 @@ Lien : https://github.com/Garagorn/Apprentissage_ADA
 ### Diffie-Hellman sur Courbes Elliptiques
 Démonstrateur pédagogique de l'échange de clés sécurisé basé sur la cryptographie ECC.
 Le projet illustre l'arithmétique modulaire sur courbes elliptiques et visualise chaque
-étape du protocole.
+étape du protocole. <br>
 Lien : https://github.com/Garagorn/Demonstrator-DH
 
 ### Calculatrice Scientifique — ANTLR4
 Calculatrice scientifique compilable par une machine à pile virtuelle, réalisée avec ANTLR4.
 Le projet couvre la conception de la grammaire, la génération du lexer/parser et l'émission
-d'un bytecode interprétable.
+d'un bytecode interprétable. <br>
 Lien : https://github.com/Garagorn/LangageCompilation
 
 ### Analyse des Algorithmes de Tri
 Chaîne de traitement permettant d'évaluer et de comparer différents algorithmes de tri sur
 des jeux de données variés. Implémentée en Java, Bash et Python, elle produit des mesures
-de performance exploitables pour comparer les approches.
+de performance exploitables pour comparer les approches. <br>
 Lien : https://github.com/Garagorn/AnalyseAlgoSorting
 
 ### Arbres Couvrants Minimaux — Prim & Kruskal
 Démonstrateur pédagogique autour de l'implémentation et comparaison des algorithmes de Prim
 et Kruskal sur des graphes pondérés. Visualisation des étapes de construction et analyse
-comparative des performances.
+comparative des performances. <br>
 Lien : https://github.com/Garagorn/Demonstrator-MST
 
 ---
 
 ## Autres projets académiques
 
-- **Jeu de Blackjack (contre IA)** — modélisation de stratégies adverses et gestion d'état de jeu.
+- **Jeu de Blackjack (contre IA)** — modélisation de stratégies adverses et gestion d'état de jeu. <br>
   Lien : https://github.com/Garagorn/Projet_Blackjack
-- **Todo List — React** — gestion de tâches, gestion d'état et composants fonctionnels.
+- **Todo List — React** — gestion de tâches, gestion d'état et composants fonctionnels. <br>
   Lien : https://github.com/Garagorn/TodoList
-- **Site Web PHP + SQL (Animaux & API)** — application CRUD avec API REST et schéma relationnel.
-  Lien : https://github.com/Garagorn/Web-Animals
-- **CRUD Musique — PHP / SQL** — gestion de titres musicaux avec authentification, architecture MVC.
+- **Site Web PHP + SQL (Animaux & API)** — application CRUD avec API REST et schéma relationnel .<br>
+  Lien : https://github.com/Garagorn/Web-Animals 
+- **CRUD Musique — PHP / SQL** — gestion de titres musicaux avec authentification, architecture MVC. <br>
   Lien : https://github.com/Garagorn/Web-Music
-- **Analyseur de "Livre Dont Vous Êtes le Héros"** — transformation en graphe de décisions, visualisation FM3.
+- **Analyseur de "Livre Dont Vous Êtes le Héros"** — transformation en graphe de décisions, visualisation FM3. <br>
   Lien : https://github.com/Garagorn/FM3-LDVELH
 
 ---
@@ -150,6 +149,6 @@ Lien : https://github.com/Garagorn/Demonstrator-MST
 
 ## Contact
 
-**GitHub :** https://github.com/Garagorn/
-**E-mail :** contact.able899@passmail.net
+**GitHub :** https://github.com/Garagorn/ <br>
+**E-mail :** contact.able899@passmail.net <br>
 **LinkedIn :** BASILE TELLIER
