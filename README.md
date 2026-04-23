@@ -1,10 +1,14 @@
 # Basile TELLIER — Étudiant en Informatique
 
+Étudiant en Licence 3 Informatique à l'Université de Caen, je candidate
+à un Master en cybersécurité en alternance à partir de septembre 2026.
 
-Étudiant en Licence 3 Informatique à l'Université de Caen, je suis à la recherche d'un stage / d'une alternance à partir de Septembre 2026 pour ma poursuite d'études en Master.
+Certifié ANSSI avec le module CYRCE, j'ai participé au CTF Orion 2026 organisé par le COMCYBER
+(182ème/2000), je développe activement mes compétences en sécurité offensive
+et défensive via TryHackMe et Root-Me, et j'ai conçu un système client-serveur
+intégrant TLS, hachage et multithreading en Python.
 
-Je m'intéresse particulièrement aux réseaux, à la cybersécurité et au développement d'applications.  
-
+Candidature en cours pour intégrer la réserve (JDC).
 
 **GitHub :** https://github.com/Garagorn/
 
@@ -12,125 +16,140 @@ Je m'intéresse particulièrement aux réseaux, à la cybersécurité et au dév
 
 ## Compétences
 
-- **Langages :** Java, C, PHP, SQL, Python, HTML/CSS, Haskell, JavaScript, Ada (en apprentissage)  
-- **Développement logiciel :** Programmation orientée objet, structures de données, algorithmique  
+- **Langages :** Java, C, PHP, SQL, Python, HTML/CSS, Haskell, JavaScript, Ada (en apprentissage)
+- **Développement logiciel :** Programmation orientée objet, structures de données, algorithmique
 - **Web :** React, PHP, API, applications CRUD/MVCR
 - **Algorithmique & Graphes :** Tris, BFS/DFS, Prim, Kruskal, FM³, Floyd-Warshall, Bellman-Ford, Dijkstra
-- **Systèmes & Réseaux :** Bash, programmation système, notions réseaux  
-- **Cybersécurité :** Cryptographie (Diffie-Hellman ECC), sécurité des systèmes (bases), OSINT, collecte de preuve
+- **Systèmes & Réseaux :** Bash, programmation système, notions réseaux
+- **Cybersécurité :** Cryptographie (Diffie-Hellman ECC), sécurité des systèmes (bases), OSINT, collecte de preuves
 - **Outils :** Git, GitHub, LaTeX, Trello, Overleaf
 
 ---
 
 ## Formation
 
-**Licence Informatique** - Université de Caen
+**Licence Informatique** — Université de Caen (2023–2026)
 
-Principaux enseignements suivis :
-
-- Acculturation à la sécurité informatique
-- Conduite de projet
-- Programmation Orientée Objet (Java, Python)  
-- Programmation Système (C, Shell, Git)  
-- Algorithmique & Algorithmique probabiliste & Structures de Données  
-- Bases de Données (SQL,MongoDB)  
-- Développement Web & Client (PHP, React, JS, HTML, CSS)  
-- Conception Logicielle (Design Patterns, méthodes de conception)  
-- Cryptologie, Parallélisme
-- Réseaux ( 
-- LAN [DHCP, DNS, Protocoles, @IP, UDP, TCP, masque réseau, ARP, ICMP, NAT, Filter pour Firewall, VLAN, routage inter vlan], 
-- WAN[Routage statique, Routage dynamique OSPF comme IGP et BGP comme EGP. Route par défaut, Logs avec Rsyslog, SNMP v3, VPN de niveau 2 et 3 e MPLS et Wireguard]
--)
-- Théorie des Langages et Compilation, Théorie des Graphes  
+Enseignements clés :
+- Réseaux (LAN/WAN, routage OSPF/BGP, VPN WireGuard/MPLS, firewall)
+- Cryptologie & Sécurité des systèmes
+- Programmation système (C, Shell, Git)
+- Théorie des langages & Compilation
+- Bases de données (SQL, MongoDB)
 
 ---
 
+## Certifications
 
-## Objectifs 2026
- 
-A l'issue de mon année universitaire, je souhaite approfondir mes compétences à travers plusieurs projets personnels :
- 
-- **Virtualisation et Automatisation des infrastructures :** formation aux outils Terraform, Ansible et Docker pour mieux comprendre les enjeux liés au déploiement et à l'orchestration d'infrastructures.
-1. *Docker* (Avril/Mai/Juin)
-2. *Terraform* / *Ansible* (Juin/Juillet/Août)
-- **Cybersécurité :** se former sur les basiques de la cybersécurité avec **Cybersecurity101** de **TryHackMe** pour avoir plus de connaissances et continuer **Rootme**
-- **CTF et challenges de cybersécurité :** participation continue à des compétitions via l'association Caen Hack You, avec un focus sur l'analyse, l'exploitation de vulnérabilités et l'investigation.
+- **Cybersecurity101** — TryHackMe (en cours, 2026)
+  Fondamentaux Linux, Windows/AD, réseaux, cryptographie, sécurité
+  offensive & défensive, OWASP Top 10
+- **Cyberprotecteur tout-terrain** — CYRCE ANSSI/SensCyber (2026)
+  Sécurité des postes, nomadisme, gestion des risques
+- **Gardien des données** — CYRCE ANSSI/SensCyber (2025)
+  Gestion sécurisée des données
+- **Cyberveilleur** — CYRCE ANSSI/SensCyber (2025)
+  Acculturation à la sécurité numérique
 
 ---
 
-## Projets Académiques
+## Pratique technique et challenges
 
-### Analyse des Algorithmes de Tri  
-Chaîne de traitement permettant d'évaluer et de comparer différents algorithmes de tri sur des jeux de données variés. Implémentée en Java, Bash et Python, elle produit des mesures de performance exploitables pour comparer les approches.   
-Lien : https://github.com/Garagorn/AnalyseAlgoSorting
+### CTF Orion 2026 — Opération Bellatrix (COMCYBER)
+CTF orienté OSINT et investigation numérique, 182ème/2000.
 
-### Calculatrice Scientifique — ANTLR4 
-Calculatrice scientifique compilable par une machine à pile virtuelle, réalisée avec ANTLR4. Le projet couvre la conception de la grammaire, la génération du lexer/parser et l'émission d'un bytecode interprétable. 
-Lien : https://github.com/Garagorn/LangageCompilation
+- Jour 1 : identification du premier diffuseur d'une campagne de
+  désinformation via sources ouvertes
+- Jour 2 : collecte et croisement de preuves techniques pour remonter
+  à l'origine de la campagne
+- Jour 3 : localisation d'un individu ("Lynx") par techniques OSINT
 
-### Diffie-Hellman sur Courbes Elliptiques
-Démonstrateur pédagogique de l'échange de clés sécurisé basé sur la cryptographie ECC. Le projet illustre l'arithmétique modulaire sur courbes elliptiques et visualise chaque étape du protocole.   
-Lien : https://github.com/Garagorn/Demonstrator-DH
+Lien : https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation-bellatrix-met-au-defi-jeunes
 
-### Arbres Couvrants Minimaux — Prim & Kruskal
-Démonstrateur pédagogique autour de limplémentation et comparaison des algorithmes de Prim et Kruskal sur des graphes pondérés. Le projet propose une visualisation des étapes de construction et une analyse comparative des performances.  
-Lien : https://github.com/Garagorn/Demonstrator-MST
+### Root-Me
+Pratique régulière de challenges web et techniques pour progresser sur
+l'exploitation de vulnérabilités et la sécurité applicative.
+Profil : https://www.root-me.org/
 
-### Jeu de Blackjack (contre IA)
-Jeu de cartes jouable contre différents types de robots aux comportements distincts. L'accent a été mis sur la modélisation des stratégies adverses et la gestion de l'état de jeu.  
-Lien : https://github.com/Garagorn/Projet_Blackjack
-
-### Todo List — React
-Application web de gestion de tâches développée avec React. Elle permet l'ajout, la suppression et le filtrage des tâches, en mettant en pratique la gestion de l'état et les composants fonctionnels.   
-Lien : https://github.com/Garagorn/TodoList
-
-### Site Web PHP + SQL (Animaux & API)
-Application web connectée à une base de données permettant l'ajout et la consultation de fiches animales via une API REST. Le projet couvre la conception du schéma relationnel, le routage et les échanges JSON.   
-Lien : https://github.com/Garagorn/Web-Animals
-
-### Analyseur de "Livre Dont Vous Êtes le Héros"
-Transformation d'un livre interactif en graphe de décisions, avec visualisation des parcours possibles à l'aide de l'algorithme FM3. Le projet explore le traitement de texte structuré et la représentation graphique.  
-Lien : https://github.com/Garagorn/FM3-LDVELH
-
-### CRUD Musique — PHP / SQL
-Application web complète de gestion de titres musicaux avec authentification, opérations CRUD et interface de recherche, suivant une architecture MVC.    
-Lien : https://github.com/Garagorn/Web-Music
+### TryHackMe — Cybersecurity101
+Formation structurée en cours couvrant Linux, réseaux, Active Directory,
+cryptographie et outils de sécurité offensive/défensive.
 
 ---
 
 ## Projets Personnels
 
-### Apprentissage du langage Ada
-Découverte de la programmation système et du typage fort à travers des exercices progressifs.   
-https://github.com/Garagorn/Apprentissage_ADA
-
-### Validateur de mot de passe (local)
-Outil d'analyse de la robustesse des mots de passe implémenté localement, intégrant les règles de complexité courantes.  
-Lien : https://github.com/Garagorn/Validateur-MDP
- 
-### Validateur de mot de passe (client-serveur TCP - Logs - TLS)
-Extension du projet précédent vers une architecture client-serveur, permettant de simuler une vérification distante et d'aborder les enjeux de sécurité liés aux échanges réseau.  
+### Validateur de mot de passe — Architecture client-serveur (Python)
+Extension d'un validateur local vers une architecture client-serveur TCP
+intégrant TLS, hachage sécurisé, gestion de logs et multithreading.
 Lien : https://github.com/Garagorn/VerificateurMotDePasse_Client_Serveur
 
+### Validateur de mot de passe — Version locale (Python)
+Outil d'analyse de robustesse des mots de passe avec règles de complexité,
+stockage et hachage sécurisé.
+Lien : https://github.com/Garagorn/Validateur-MDP
+
+### Apprentissage du langage Ada
+Découverte de la programmation système et du typage fort via exercices progressifs.
+Lien : https://github.com/Garagorn/Apprentissage_ADA
+
 ---
 
-# Pratique technique et challenges (CTF)
+## Projets Académiques
+
+### Diffie-Hellman sur Courbes Elliptiques
+Démonstrateur pédagogique de l'échange de clés sécurisé basé sur la cryptographie ECC.
+Le projet illustre l'arithmétique modulaire sur courbes elliptiques et visualise chaque
+étape du protocole.
+Lien : https://github.com/Garagorn/Demonstrator-DH
+
+### Calculatrice Scientifique — ANTLR4
+Calculatrice scientifique compilable par une machine à pile virtuelle, réalisée avec ANTLR4.
+Le projet couvre la conception de la grammaire, la génération du lexer/parser et l'émission
+d'un bytecode interprétable.
+Lien : https://github.com/Garagorn/LangageCompilation
+
+### Analyse des Algorithmes de Tri
+Chaîne de traitement permettant d'évaluer et de comparer différents algorithmes de tri sur
+des jeux de données variés. Implémentée en Java, Bash et Python, elle produit des mesures
+de performance exploitables pour comparer les approches.
+Lien : https://github.com/Garagorn/AnalyseAlgoSorting
+
+### Arbres Couvrants Minimaux — Prim & Kruskal
+Démonstrateur pédagogique autour de l'implémentation et comparaison des algorithmes de Prim
+et Kruskal sur des graphes pondérés. Visualisation des étapes de construction et analyse
+comparative des performances.
+Lien : https://github.com/Garagorn/Demonstrator-MST
 
 ---
 
-## CTF Orion 2026 (Opération Bellatrix)
-Dans le cadre de ce Capture The Flag orienté OSINT et investigation organisé par le COMCYBER, j’ai participé à une série d’épreuves sur plusieurs jours visant à analyser une campagne de désinformation.
+## Autres projets académiques
 
-- Jour 1 : identification du premier diffuseur de la désinformation à partir de différentes sources ouvertes
-- Jour 2 : collecte et analyse de preuves techniques afin de remonter à l’origine de la campagne
-- Jour 3 : localisation d’un individu (“Lynx”) en exploitant des techniques d’OSINT
+- **Jeu de Blackjack (contre IA)** — modélisation de stratégies adverses et gestion d'état de jeu.
+  Lien : https://github.com/Garagorn/Projet_Blackjack
+- **Todo List — React** — gestion de tâches, gestion d'état et composants fonctionnels.
+  Lien : https://github.com/Garagorn/TodoList
+- **Site Web PHP + SQL (Animaux & API)** — application CRUD avec API REST et schéma relationnel.
+  Lien : https://github.com/Garagorn/Web-Animals
+- **CRUD Musique — PHP / SQL** — gestion de titres musicaux avec authentification, architecture MVC.
+  Lien : https://github.com/Garagorn/Web-Music
+- **Analyseur de "Livre Dont Vous Êtes le Héros"** — transformation en graphe de décisions, visualisation FM3.
+  Lien : https://github.com/Garagorn/FM3-LDVELH
 
-Cette expérience m'a permis de développer une approche rigoureuse en investigation numérique : recherche en sources ouvertes, croisement de données et analyse d'indices techniques.  
+---
 
-Lien : https://www.defense.gouv.fr/air/actualites/orion-jeunesse-2026-loperation-bellatrix-met-au-defi-jeunes
+## Objectifs 2026
+
+- **Cybersecurity101** — finalisation avant mai 2026
+- **Docker** — prévu mai 2026
+- **Ansible / Terraform** — prévu juin–août 2026
+- **CTF continus** — via l'association Caen Hack You, focus exploitation et investigation
+
 
 ---
 
 ## Contact
 
-GitHub : https://github.com/Garagorn/
+**GitHub :** https://github.com/Garagorn/
+**E-mail :** contact.able899@passmail.net
+**LinkedIn :** BASILE TELLIER
