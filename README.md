@@ -139,11 +139,14 @@ Lien : https://github.com/Garagorn/Demonstrator-MST
 
 ## Objectifs 2026
 
-- **Cybersecurity101** — finalisation avant mai 2026
+- **Cybersecurity101** TryHackMe — finalisation avant mai 2026
 - **Docker** — prévu mai 2026
-- **Ansible / Terraform** — prévu juin–août 2026
-- **CTF continus** — via l'association Caen Hack You, focus exploitation et investigation
-
+- **Ansible / Terraform** — prévu juin–août 2026 <br>
+Se former avec TryHackMe pour apprendre et comprendre :
+- **SOC Level 1** de TryHackMe - avant septembre 2026
+- **SOC Level 2** de TryHackMe - avant septembre 2026
+- **AI Security** de TryHackMe - avant septembre 2026 <br>
+- **CTF continus** — via l'association Caen Hack You entre autre
 
 ---
 
