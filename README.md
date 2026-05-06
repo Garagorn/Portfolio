@@ -1,7 +1,7 @@
 # Basile TELLIER — Étudiant en Informatique
 
-Étudiant en Licence 3 Informatique à l'Université de Caen, je candidate
-à un Master en cybersécurité en alternance à partir de septembre 2026.
+Étudiant en Licence 3 Informatique à l'Université de Caen et admis au Master Sécurité Informatique, Cybersécurité et Cybermenaces (CNAM Angers et Bruz), je
+recherche une entreprise d'accueil pour mon alternance.
 
 Certifié ANSSI avec le module CYRCE, j'ai participé au CTF Orion 2026 organisé par le COMCYBER
 (182ème/2000), je développe activement mes compétences en sécurité offensive
@@ -147,6 +147,8 @@ Se former avec TryHackMe pour apprendre et comprendre :
 - **SOC Level 2** de TryHackMe -
 - **AI Security** de TryHackMe - <br>
 - **CTF continus** — via l'association Caen Hack You entre autre
+- CTE Enfer Numérique (orienté OSINT)
+- 404 CTF
 
 ---
 
