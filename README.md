@@ -3,7 +3,7 @@
 Étudiant en Licence 3 Informatique à l'Université de Caen et admis au Master Sécurité Informatique, Cybersécurité et Cybermenaces (CNAM Angers et Bruz), je
 recherche une entreprise d'accueil pour mon alternance.
 
-Certifié ANSSI avec le module CYRCE, j'ai participé au CTF Orion 2026 organisé par le COMCYBER
+Ayant suivi avec le module CYRCE le mooc de l'ANSSI, j'ai participé au CTF Orion 2026 organisé par le COMCYBER
 (182ème/2000), je développe activement mes compétences en sécurité offensive
 et défensive via TryHackMe et Root-Me, et j'ai conçu un système client-serveur
 intégrant TLS, hachage et multithreading en Python.
@@ -15,6 +15,8 @@ intégrant TLS, hachage et multithreading en Python.
 ## Compétences
 
 - **Langages :** Java, C, PHP, SQL, Python, HTML/CSS, Haskell, JavaScript, Ada (en apprentissage)
+- **Virtualisation** : VirtualBox
+- **Conteneurisation** : Docker, Docker compose
 - **Développement logiciel :** Programmation orientée objet, structures de données, algorithmique
 - **Web :** React, PHP, API, applications CRUD/MVCR
 - **Algorithmique & Graphes :** Tris, BFS/DFS, Prim, Kruskal, FM³, Floyd-Warshall, Bellman-Ford, Dijkstra
@@ -39,8 +41,12 @@ Enseignements clés :
 
 ## Certifications
 
-- **Cybersecurity101** — TryHackMe (en cours, 2026)
-  Fondamentaux Linux, Windows/AD, réseaux, cryptographie, sécurité
+- **SOC Level 1** — TryHackMe (en cours, 2026)
+    Certification couvrant les enjeux et outils d'un SOC : prise en main de Splunk, Snort, Wireshark
+  et Networkminer, détection et analyse d'incidents, surveillance Web, Windows et Linux.
+  Approche pratique à travers des labs et challenges progressifs.
+- **Cybersecurity101** — TryHackMe (28 Avril 2026)
+    Fondamentaux Linux, Windows/AD, réseaux, cryptographie, sécurité
   offensive & défensive, OWASP Top 10
 - **Cyberprotecteur tout-terrain** — CYRCE ANSSI/SensCyber (2026)
   Sécurité des postes, nomadisme, gestion des risques
@@ -88,9 +94,13 @@ Outil d'analyse de robustesse des mots de passe avec règles de complexité,
 stockage et hachage sécurisé.
 Lien : https://github.com/Garagorn/Validateur-MDP
 
-### Apprentissage du langage Ada
-Découverte de la programmation système et du typage fort via exercices progressifs.
-Lien : https://github.com/Garagorn/Apprentissage_ADA
+### Mise en place d'un lab attaque et SOC
+Laboratoire de test sur **VirtualBox** créer avec **Vagrant** et provisionné avec **Ansible** de quatres machines virtulles :
+1. Machine d'attaque (Kali)
+2. Machine Cible avec un docker OWASP
+3. Machine SIEM Wazuh
+4. Machine Réseau Suricata IDS
+Permettant d'allier le déploiement DevOps, l'administration système et la cybersécurité offenssive et défenssive.
 
 ---
 
