@@ -1,6 +1,6 @@
 # Basile TELLIER — Étudiant en Informatique
 
-Étudiant en Licence 3 Informatique à l'Université de Caen et admis au Master Sécurité Informatique, Cybersécurité et Cybermenaces (CNAM Angers et Bruz), je
+Étudiant diplômé d'une Licence Informatique à l'Université de Caen et admis au Master Sécurité Informatique, Cybersécurité et Cybermenaces (CNAM Angers et Bruz), je
 recherche une entreprise d'accueil pour mon alternance.
 
 Ayant suivi avec le module CYRCE le mooc de l'ANSSI, j'ai participé au CTF Orion 2026 organisé par le COMCYBER
