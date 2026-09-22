@@ -1,11 +1,10 @@
 # Basile TELLIER — Étudiant en Informatique
 
-Étudiant diplômé d'une Licence Informatique à l'Université de Caen et admis au Master Sécurité Informatique, Cybersécurité et Cybermenaces (CNAM Angers et Bruz), je
-recherche une entreprise d'accueil pour mon alternance.
+Étudiant diplômé d'une Licence Informatique à l'Université de Caen et auditeur en Master 1 Sécurité Informatique, Cybersécurité et Cybermenaces .
 
 Ayant suivi avec le module CYRCE le mooc de l'ANSSI, j'ai participé au CTF Orion 2026 organisé par le COMCYBER
 (182ème/2000), je développe activement mes compétences en sécurité offensive
-et défensive via TryHackMe et Root-Me, et j'ai conçu un système client-serveur
+et défensive via TryHackMe, Root-Me et différents  projets, et j'ai conçu un système client-serveur
 intégrant TLS, hachage et multithreading en Python.
 
 **GitHub :** https://github.com/Garagorn/
@@ -14,7 +13,7 @@ intégrant TLS, hachage et multithreading en Python.
 
 ## Compétences
 
-- **Langages :** Java, C, PHP, SQL, Python, HTML/CSS, Haskell, JavaScript, Ada (en apprentissage)
+- **Langages :** Java, C, PHP, SQL, Python, HTML/CSS, Haskell, JavaScript, Vagrant, Ansible 
 - **Virtualisation** : VirtualBox
 - **Conteneurisation** : Docker, Docker compose
 - **Développement logiciel :** Programmation orientée objet, structures de données, algorithmique
@@ -27,6 +26,9 @@ intégrant TLS, hachage et multithreading en Python.
 ---
 
 ## Formation
+
+**Master 1 Cybersécurité** - Conservatoire National des Arts et Métiers (2026- )
+Enseignements clés :
 
 **Licence Informatique** — Université de Caen (2023–2026)
 
@@ -149,15 +151,21 @@ Lien : https://github.com/Garagorn/Demonstrator-MST
 
 ## Objectifs 2026
 
-- **Cybersecurity101** TryHackMe — finalisation avant mai 2026
-- **Docker** — prévu mai 2026
-- **Ansible / Terraform** — prévu juin–août 2026 <br>
+- **Docker** 
+- **Ansible / Terraform / Vagrant **
 Se former avec TryHackMe pour apprendre et comprendre :
 - **SOC Level 1** de TryHackMe -
+
+- **CTF continus** — via l'association Caen Hack You entre autre
+- 404 CTF
+
+## Objectifs 2027
+- **Ansible / Terraform / Vagrant ** plus développée
+<br> Se former avec TryHackMe pour apprendre et comprendre :-
+- **Rootme** - Pratique appliquée des concepts et notions vu avec THM / Cours
 - **SOC Level 2** de TryHackMe -
 - **AI Security** de TryHackMe - <br>
 - **CTF continus** — via l'association Caen Hack You entre autre
-- CTE Enfer Numérique (orienté OSINT)
 - 404 CTF
 
 ---
