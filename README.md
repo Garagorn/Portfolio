@@ -155,13 +155,14 @@ Lien : https://github.com/Garagorn/Demonstrator-MST
 - **Ansible / Terraform / Vagrant **
 Se former avec TryHackMe pour apprendre et comprendre :
 - **SOC Level 1** de TryHackMe -
-
+- Ecrit régulier de Write-Up de salle THM
 - **CTF continus** — via l'association Caen Hack You entre autre
 - 404 CTF
 
 ## Objectifs 2027
 - **Ansible / Terraform / Vagrant ** plus développée
-<br> Se former avec TryHackMe pour apprendre et comprendre :-
+- <br> Se former avec TryHackMe pour apprendre et comprendre :-
+- Ecrit régulier de Write-Up de salle THM
 - **Rootme** - Pratique appliquée des concepts et notions vu avec THM / Cours
 - **SOC Level 2** de TryHackMe -
 - **AI Security** de TryHackMe - <br>
