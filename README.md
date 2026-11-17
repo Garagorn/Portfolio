@@ -1,4 +1,4 @@
-# Basile TELLIER — Étudiant en Informatique
+# Basile TELLIER — Étudiant en Informatique et Cybersécurité
 
 Étudiant diplômé d'une Licence Informatique à l'Université de Caen et auditeur en Master 1 Sécurité Informatique, Cybersécurité et Cybermenaces .
 
@@ -27,8 +27,8 @@ intégrant TLS, hachage et multithreading en Python.
 
 ## Formation
 
-**Master 1 Cybersécurité** - Conservatoire National des Arts et Métiers (2026- )
-Enseignements clés :
+**Master 1 Cybersécurité HTT** - Conservatoire National des Arts et Métiers (2026- )
+Enseignements clés : Intelligence artificielle, Conception et Urbanisation de services réseaux, Gestion de données à large échelle, Sécurité des réseaux, Systèmes et applications répartis pour le cloud.
 
 **Licence Informatique** — Université de Caen (2023–2026)
 
@@ -42,8 +42,8 @@ Enseignements clés :
 ---
 
 ## Certifications
-
-- **SOC Level 1** — TryHackMe (en cours, 2026)
+- **AI Security** - TryHackMe(En cours)
+- **SOC Level 1** — TryHackMe (Octobre, 2026)
     Certification couvrant les enjeux et outils d'un SOC : prise en main de Splunk, Snort, Wireshark
   et Networkminer, détection et analyse d'incidents, surveillance Web, Windows et Linux.
   Approche pratique à travers des labs et challenges progressifs.
@@ -96,13 +96,32 @@ Outil d'analyse de robustesse des mots de passe avec règles de complexité,
 stockage et hachage sécurisé.
 Lien : https://github.com/Garagorn/Validateur-MDP
 
-### Mise en place d'un lab attaque et SOC
-Laboratoire de test sur **VirtualBox** créer avec **Vagrant** et provisionné avec **Ansible** de quatres machines virtulles :
-1. Machine d'attaque (Kali)
-2. Machine Cible avec un docker OWASP
-3. Machine SIEM Wazuh
-4. Machine Réseau Suricata IDS
-Permettant d'allier le déploiement DevOps, l'administration système et la cybersécurité offenssive et défenssive.
+### Mise en place d'un lab homelab d'attaque et SOC (En cours)
+Laboratoire de test sur **VirtualBox** créer avec **Vagrant** et provisionné avec **Ansible** de machines virtulles :
+0. Fondations du lab
+0.1 Vagrant basique
+0.2 Ansible basique
+0.3 Playbook
+0.4 Ansible pour provisionner Vagrant
+1. Mise en place du réseau de base
+1.1 Plan d'addressage
+1.2 Routage
+1.3 Configuration des routeurs avec Ansible
+2. Machine cible et journalisation
+2.1 Mise en place de la machine cible
+2.2 Déploiement DVWA / Juice shop en conteneurs
+2.3 Installation de Wazuh
+2.4 Installation des agents Wazuh sur machine cible et routeur
+2.5 Remontée des logs
+3. Attaque et détection
+3.1
+4. Durcissement
+4.1
+5. IDS
+5.1
+6. DMZ et bastion
+7. VLAN
+
 
 ---
 
